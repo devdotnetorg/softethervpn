@@ -1,4 +1,4 @@
-CLIENT_DIR="/root/softether/vpnclient"
+CLIENT_DIR="/root/softethervpn/vpnclient"
 NIC_NAME="vpn_se_nic1"
 ACCOUNT_NAME="officeuser1"
 VPN_HOST_IPv4="185.240.242.10"
